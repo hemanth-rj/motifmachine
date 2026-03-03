@@ -508,4 +508,4 @@ SOFTWARE.
 
 ---
 
-**Happy creating! 🎹🎶**
+**Happy creating!**
