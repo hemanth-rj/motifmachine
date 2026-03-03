@@ -471,14 +471,6 @@ Chord tones = root (0), third (2), fifth (4)
 - loopMIDI (Windows) or IAC Driver (macOS)
 - A DAW with MIDI input support
 
-## Contributors
-
-This project was developed by:
-
-- **Hemanth**
-- **Lydia**
-- **Polyxeni**
-
 ## License
 
 This project is licensed under the MIT License.
